@@ -1,5 +1,6 @@
 # BerlinAirbnb
 Analysis of Berlin Airbnb Data
+
 [Blog Post on Medium.com](https://medium.com/@pouya.kholdi/wanna-make-money-using-airbnb-in-berlin-check-this-out-cc05ddb418a3)
 
 ## Project Motivation
